@@ -1,0 +1,8 @@
+{
+  "Db": {
+     "Mysql":{
+       "Url": "go:gin@/blog?charset=utf8&parseTime=True&loc=Local"
+     },
+     "Paginate": 20
+   }
+}
